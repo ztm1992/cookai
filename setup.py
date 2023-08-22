@@ -6,5 +6,5 @@ setup(
     packages=find_packages(),
     author="Taimin Zhang",
     description="A delicious AI recipe.",
-    url="https://github.com"
+    url="https://github.com/ztm1992/cookai"
 )
